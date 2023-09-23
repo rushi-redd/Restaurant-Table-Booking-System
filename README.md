@@ -1,22 +1,20 @@
-How to run the online Birth Certificate System Project
-1.Download the zip file
+How to run the Restaurant Table Booking System (rtbs) Project
 
-2.Extract the file and copy obcs folder
+1. Download the zip file
 
-3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+2. Extract the file and copy rtbs folder
+
+3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/HTML)
 
 4.Open PHPMyAdmin (http://localhost/phpmyadmin)
 
-5.Create a database with name obcsdb
+5. Create a database with the name rtbsdb
 
-6.Import obcsdb.sql file(given inside the zip package in SQL file folder)
+6. Import rtbsdb.sql file(given inside the zip package in the SQL file folder)
 
-7.Run the script http://localhost/obcs
+7. Run the script http://localhost/rtbs
 
-Admin Credential
+Credential for Admin panel :
+
 Username: admin
-Password: Test@123
-
-User Credential
-Username: 3636251425
 Password: Test@123
